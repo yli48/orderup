@@ -3,3 +3,11 @@
 -http://www.postgresql.org/download/
 
 -postgresql-9.4.4-1-osx.dmg for Mac
+ Intallation Directory: /Library/PostgreSQL/9.4
+ Data Directory: /Library/PostgreSQL/9.4/data
+ superuser: ou
+ Port: 5432
+ Locale: [Default locale]
+
+-Stack Builder 3.1.1
+ PostgresSQL 9.4 on port 5432
