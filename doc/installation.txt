@@ -1,0 +1,5 @@
+1. Intall PostgreSQL v.9.4.4-1
+
+-http://www.postgresql.org/download/
+
+-postgresql-9.4.4-1-osx.dmg for Mac
