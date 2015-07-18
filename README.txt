@@ -1,2 +1,2 @@
 # orderup
-This project is to set up an ordering system.
+This project is to develop and set up an ordering system.
